@@ -1,0 +1,2 @@
+class FavUpdateInput {}
+export { FavUpdateInput };
