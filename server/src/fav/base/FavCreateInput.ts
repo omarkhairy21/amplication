@@ -1,0 +1,2 @@
+class FavCreateInput {}
+export { FavCreateInput };
